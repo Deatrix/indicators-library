@@ -7,7 +7,7 @@ local font_names = {
 
 i = 0
 
-local ref = gui.Reference("Visuals")
+local ref = gui.Reference("RAGEBOT")
 local tab = gui.Tab(ref, "tab_ind_opt", "Indicators Settings")
 local gb = gui.Groupbox(tab, "Size", 15, 15, 300, 900)
 local gb_1 = gui.Groupbox(tab, "Position", 325, 15, 300, 900)
